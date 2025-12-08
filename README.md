@@ -44,7 +44,7 @@ The main files in this repository are:
 - `E10_report.pdf`  
   Full written report describing the project, methods, results and discussion.
 
-- `poster.pdf` (or similar)  
+- `nobel_prize_poster.pdf` (or similar)  
   Final poster used for the project presentation (built from the analyses in the notebooks).
 
 - **Data files**
